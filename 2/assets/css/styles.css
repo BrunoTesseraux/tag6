@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background: url(./../img/mattias-olsson-nQz49efZEFs-unsplash.jpg) fixed;
+  background-size: cover;
+}
+
+section {
+  padding-top: 14%;
+  text-align: center;
+}
+
+div {
+  margin: auto;
+  width: 75%;
+  min-height: 20%;
+
+  padding: 1%;
+  background: rgba(175, 171, 171, 0.5);
+}
+h1 {
+  color: white;
+  width: 100%;
+  font-size: 2.5rem;
+  display: block;
+  padding: 0 30px;
+}
